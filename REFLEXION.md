@@ -17,4 +17,3 @@
    En partie. Avec Git il récupère le code, et les paramètres et versions
    des bibliothèques sont notés dans les runs. Mais `mlflow.db` et `mlruns/`
    restent sur ma machine, et l'environnement n'est pas identique.
-   Docker (TP5-6) réglera ce problème.
