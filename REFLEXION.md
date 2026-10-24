@@ -17,3 +17,6 @@
    En partie. Avec Git il récupère le code, et les paramètres et versions
    des bibliothèques sont notés dans les runs. Mais `mlflow.db` et `mlruns/`
    restent sur ma machine, et l'environnement n'est pas identique.
+ 
+<img width="959" height="443" alt="image" src="https://github.com/user-attachments/assets/b993aec4-bc29-4fb7-8e5f-958ad5c8bcea" />
+
